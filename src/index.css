@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+
+  body{
+    overflow-x: hidden !important;
+    /* max-width: 95vw; */
+  }
+  
